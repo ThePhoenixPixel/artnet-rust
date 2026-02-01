@@ -1,0 +1,8 @@
+[package]
+name = "artnet"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bx                  = { git = "https://github.com/ThePhoenixPixel/bx.git", version = "1.2.0"}
+
